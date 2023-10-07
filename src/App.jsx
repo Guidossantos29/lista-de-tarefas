@@ -1,7 +1,7 @@
 import { useState } from 'react'
-import Todo from './components/todo/index'
+import Todo from './components/todo'
 import styled from 'styled-components'
-import TodoForm from '../src/components/TodoForm/index'
+import TodoForm from '../src/components/TodoForm'
 
 
 const AppContainer = styled.div`
